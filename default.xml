@@ -27,6 +27,11 @@
         fetch="https://gitea.com/DroidX-UI"
         sync-j="8"
         revision="15_v2" />
+
+    <remote name="schoosh-gitea"
+        fetch="https://gitea.com/SuperAviation001"
+        sync-j="8"
+        revision="15_v2" />
   
   <!-- LineageOS Github -->
   <remote  name="lineage"
